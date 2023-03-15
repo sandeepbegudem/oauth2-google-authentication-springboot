@@ -1,0 +1,2 @@
+insert into books values(100001, 'mark manson', 'subtle art of not giving a fuck', 'mark manson publications')
+insert into books values(100002, 'mark manson', 'Everything is fucked up', 'mark manson publications')
